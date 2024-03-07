@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @xcx-13
+- 👀 I’m interested in Game development (cause I like playing games...)
+- 🌱 I’m currently learning API structures and Web Sockets
+- 📫 You can't reach me (not yet)
+- 😄 Pronouns: I don't care
+- ⚡ Fun fact: I'm funny ;)
