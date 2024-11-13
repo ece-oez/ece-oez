@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @xcx-13
 - 👀 I’m interested in Game and Web development
 - 🌱 I’m currently learning API structures, JS Frameworks and responsive design
-- 📫 You can't reach me (not yet)
 - ⚡ Fun fact: I'm funny ;)
