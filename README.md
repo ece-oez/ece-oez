@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @xcx-13
 - 👀 I’m interested in Game and Web development
-- 🌱 I’m currently learning API structures, JS Frameworks and responsive design
+- 🌱 I’m currently learning Linux, Docker and Kubernetes
 - ⚡ Fun fact: I'm funny ;)
