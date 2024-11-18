@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xcx-13
+- 👋 Hi, I’m @xcx-13 (xcx = ece)
 - 👀 I’m interested in Game and Web development
 - 🌱 I’m currently learning Linux, Docker and Kubernetes
 - ⚡ Fun fact: I'm funny ;)
