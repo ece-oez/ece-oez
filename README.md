@@ -1,3 +1,5 @@
+![alt text](<Blue Illustration Game Presentation.png>)
+
 - 👋 Hi, I’m @xcx-13
 - 👀 I’m interested in Game and Web development
 - 🌱 I’m currently learning Linux, Docker and Kubernetes
