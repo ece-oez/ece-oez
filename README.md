@@ -1,4 +1,4 @@
-![alt text](<Blue Illustration Game Presentation (1).png>)
+![alt text](<IMG_1190.png>)
 
 - 👋 Hi, I’m @xcx-13
 - 👀 I’m interested in Game and Web development
