@@ -1,5 +1,6 @@
-![alt text](<Blue Illustration Game Presentation (1).png>)
 
+![GitHub-Mark-Light](https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only)
+![GitHub-Mark-Dark ](<Blue Illustration Game Presentation (1).png>)
 
 
 ---
