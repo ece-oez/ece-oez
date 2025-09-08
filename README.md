@@ -2,6 +2,7 @@
     <img src="welcome-light.png#gh-light-mode-only"/>
     <img src="welcome-dark.png#gh-dark-mode-only"/>
 </p>
+
 ---
 
 - 👋 Hi, I’m Ece
@@ -15,6 +16,6 @@ Now you can buy me a coffe ;)
 
 
 
-![alt text](6vIk.gif)
+![alt text](typing.gif)
 
-![alt text](<cat_gif (1).gif>)
+![alt text](<cat_gif.gif>)
