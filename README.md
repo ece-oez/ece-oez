@@ -6,19 +6,11 @@
 <img src="welcome-light.png#gh-light-mode-only"/>
 <img src="welcome-dark.png#gh-dark-mode-only"/>
 
-
-
  <p align="center">  
 to my fancy Github Page
 </p>
 
 # About  Me
-
-- 🙀 I'm about 23 years old.
-
-- 🏚️ I live in a city that is not well-known.
-
-- 🗺️ In a country located in the heart of Europe.
 
 - 📄 In the last 3 years, I achieved my Developer Diploma.
 
@@ -56,8 +48,6 @@ to my fancy Github Page
 ![Static Badge](https://img.shields.io/badge/Buy%20me%20a%20coffe-%237A37E6?style=for-the-badge&logo=buymeacoffee&logoSize=auto&link=https%3A%2F%2Fbuymeacoffee.com%2Feceoez)
 
 
-# Goodbye
+# See u later
 
 🍀 Have fun and good luck with everything!
-
-![alt text](typing.gif)
