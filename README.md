@@ -7,7 +7,7 @@
 <img src="welcome-dark.png#gh-dark-mode-only"/>
 
  <p align="center">  
-to my fancy Github Page
+to my Github Page
 </p>
 
 # About  Me
