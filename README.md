@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="welcome-light.png#gh-light-mode-only" height="120" width="120"/>
-    <img src="welcome-dark.png#gh-dark-mode-only" height="120" width="120"/>
+    <img src="welcome-light.png#gh-light-mode-only"/>
+    <img src="welcome-dark.png#gh-dark-mode-only"/>
 </p>
 ---
 
