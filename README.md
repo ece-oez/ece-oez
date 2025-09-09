@@ -43,9 +43,6 @@ to my Github Page
 
 (I know you’re a bit of a stalker 👀)
 
-☕️ Can you buy me a coffee then, my little stalker?
-
-![Static Badge](https://img.shields.io/badge/Buy%20me%20a%20coffe-%237A37E6?style=for-the-badge&logo=buymeacoffee&logoSize=auto&link=https%3A%2F%2Fbuymeacoffee.com%2Feceoez)
 
 
 # See u later
