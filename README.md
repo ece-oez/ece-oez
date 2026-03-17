@@ -16,7 +16,11 @@ to my Github Page
 
 - 🕹️ I’m interested in game and web development.
 
-- ⏳ I’m currently working full-time for a furniture company.
+- ⏳ I'm currently working full-time as a developer on a parking management system, where I'm gaining experience with Typescript, Angular, C#, .NET, and MQTT (Mosquitto).
+
+- 👩‍🎓 In my free time, I'm exploring game development, responsive Web Apps with VUE.js, Nuxt, and TailwindCSS and UI/UX concepts.
+
+
 
 
 # What do I do
@@ -24,9 +28,9 @@ to my Github Page
 
 - 👾 Creating mini games
 
-- 🍜 Eating ramen
+- 🍜 Cooking and eating
 
-- ⚡ Beeing funny
+- ⚡ drawing cute assets
 
 
 # Socials
@@ -34,15 +38,6 @@ to my Github Page
 ⤵️ If you want to visit my portfolio site, feel free to do so! ♿️
 
 ![Static Badge](https://img.shields.io/badge/My%20Portfolio-%237A37E6?style=for-the-badge&logo=vuedotjs&logoSize=auto&link=https%3A%2F%2Fece-portfolio.de)
-
-⤵️ You can also follow me on my social media
-
-<a href="https://www.linkedin.com/in/eceoezmen/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-(I know you’re a bit of a stalker 👀)
-
 
 
 # See u later
