@@ -15,6 +15,8 @@ to my Github Page
 - 📄 Developer diploma (2022 - 2025)
 - ⏳ Employed as a developer on a parking management system (TypeScript, Angular, C#, .NET, MQTT)
 - 👩‍🎓 Exploring game dev, Vue/Nuxt, Tailwind and UI/UX in my free time
+- ✈️ I enjoy travelling
+- 🐹 I like playing with my hamster
 
 
 
