@@ -10,9 +10,8 @@
 to my Github Page
 </p>
 
-# 👋 Hi, I'm a Developer
+# I'm a Fullstack-Developer
 
----
 
 ## 🧑‍💻 About Me
 
